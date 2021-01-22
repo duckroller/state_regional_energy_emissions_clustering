@@ -1,0 +1,117 @@
+ 
+              HEATING DEGREE DAY DATA MONTHLY SUMMARY
+     POPULATION-WEIGHTED STATE,REGIONAL,AND NATIONAL AVERAGES
+              CLIMATE PREDICTION CENTER-NCEP-NWS-NOAA
+ 
+                     MONTHLY DATA FOR JUL 2017
+                 ACCUMULATIONS ARE FROM JULY 1, 2017
+         -999 = NORMAL LESS THAN 100 OR RATIO INCALCULABLE
+ 
+   STATE         MONTH MON  MON     CUM   CUM   CUM   CUM   CUM
+                 TOTAL DEV  DEV     TOTAL DEV   DEV   DEV   DEV
+                       FROM FROM          FROM  FROM  FROM  FROM
+                       NORM L YR          NORM  L YR  NORM  L YR
+                                                      PRCT  PRCT
+  
+ ALABAMA             0    0    0       0     0     0  -999  -999
+ ALASKA            166  -63   50     166   -63    50   -28    42
+ ARIZONA             0    0    0       0     0     0  -999  -999
+ ARKANSAS            0    0    0       0     0     0  -999  -999
+ CALIFORNIA          0  -10    0       0   -10     0  -999  -999
+ COLORADO            0  -33   -1       0   -33    -1  -999  -999
+ CONNECTICUT        20   16   10      20    16    10  -999  -999
+ DELAWARE            0    0    0       0     0     0  -999  -999
+ DISTRCT COLUMBIA    0    0    0       0     0     0  -999  -999
+ FLORIDA             0    0    0       0     0     0  -999  -999
+ GEORGIA             0    0    0       0     0     0  -999  -999
+ HAWAII              0    0    0       0     0     0  -999  -999
+ IDAHO               0  -39  -18       0   -39   -18  -999  -999
+ ILLINOIS            5    0   -7       5     0    -7  -999  -999
+ INDIANA             6    1   -7       6     1    -7  -999  -999
+ IOWA                7   -4  -14       7    -4   -14  -999  -999
+ KANSAS              0   -2   -1       0    -2    -1  -999  -999
+ KENTUCKY            0   -1    0       0    -1     0  -999  -999
+ LOUISIANA           0    0    0       0     0     0  -999  -999
+ MAINE              25  -10   -2      25   -10    -2  -999  -999
+ MARYLAND            0   -1    0       0    -1     0  -999  -999
+ MASSACHUSETTS      11    4    7      11     4     7  -999  -999
+ MICHIGAN            0  -14   -1       0   -14    -1  -999  -999
+ MINNESOTA           5  -27   -1       5   -27    -1  -999  -999
+ MISSISSIPPI         0    0    0       0     0     0  -999  -999
+ MISSOURI            0   -2   -4       0    -2    -4  -999  -999
+ MONTANA             0  -89  -44       0   -89   -44  -999  -999
+ NEBRASKA            1  -10  -13       1   -10   -13  -999  -999
+ NEVADA              0   -5    0       0    -5     0  -999  -999
+ NEW HAMPSHIRE      20    2    8      20     2     8  -999  -999
+ NEW JERSEY          0   -1    0       0    -1     0  -999  -999
+ NEW MEXICO          0   -5    0       0    -5     0  -999  -999
+ NEW YORK            1   -7    1       1    -7     1  -999  -999
+ NORTH CAROLINA      0    0    0       0     0     0  -999  -999
+ NORTH DAKOTA       20  -30  -30      20   -30   -30  -999  -999
+ OHIO                9    3    0       9     3     0  -999  -999
+ OKLAHOMA            0    0    0       0     0     0  -999  -999
+ OREGON             11  -52  -48      11   -52   -48  -999  -999
+ PENNSYLVANIA        7   -1    0       7    -1     0  -999  -999
+ RHODE ISLAND       29   24   13      29    24    13  -999  -999
+ SOUTH CAROLINA      0    0    0       0     0     0  -999  -999
+ SOUTH DAKOTA        4  -32  -16       4   -32   -16  -999  -999
+ TENNESSEE           0    0    0       0     0     0  -999  -999
+ TEXAS               0    0    0       0     0     0  -999  -999
+ UTAH                0  -13   -4       0   -13    -4  -999  -999
+ VERMONT            68   37   16      68    37    16  -999  -999
+ VIRGINIA            0   -1    0       0    -1     0  -999  -999
+ WASHINGTON         14  -63  -33      14   -63   -33  -999  -999
+ WEST VIRGINIA       0   -5    0       0    -5     0  -999  -999
+ WISCONSIN          27    4   -1      27     4    -1  -999  -999
+ WYOMING             2  -57  -13       2   -57   -13  -999  -999
+   REGION
+ NEW ENGLAND        19    8    8      19     8     8  -999  -999
+ MIDDLE ATLANTIC     3   -3    0       3    -3     0  -999  -999
+ E N CENTRAL         8   -1   -3       8    -1    -3  -999  -999
+ W N CENTRAL         3  -12   -6       3   -12    -6  -999  -999
+ SOUTH ATLANTIC      0    0    0       0     0     0  -999  -999
+ E S CENTRAL         0    0    0       0     0     0  -999  -999
+ W S CENTRAL         0    0    0       0     0     0  -999  -999
+ MOUNTAIN            0  -19   -5       0   -19    -5  -999  -999
+ PACIFIC             3  -21   -8       3   -21    -8  -999  -999
+ 
+ UNITED STATES       3   -6   -2       3    -6    -2  -999  -999
+              GAS HOME HEATING CUSTOMER WEIGHTED
+   REGION
+ NEW ENGLAND        16    9    8      16     9     8  -999  -999
+ MIDDLE ATLANTIC     3   -4    0       3    -4     0  -999  -999
+ E N CENTRAL         7   -2   -3       7    -2    -3  -999  -999
+ W N CENTRAL         3  -11   -6       3   -11    -6  -999  -999
+ SOUTH ATLANTIC      0   -1    0       0    -1     0  -999  -999
+ E S CENTRAL         0    0    0       0     0     0  -999  -999
+ W S CENTRAL         0    0    0       0     0     0  -999  -999
+ MOUNTAIN            0  -22   -5       0   -22    -5  -999  -999
+ PACIFIC             2  -16   -5       2   -16    -5  -999  -999
+ 
+ UNITED STATES       3   -6   -2       3    -6    -2  -999  -999
+              OIL HOME HEATING CUSTOMER WEIGHTED
+   REGION
+ NEW ENGLAND        21    8    7      21     8     7  -999  -999
+ MIDDLE ATLANTIC     3   -4    1       3    -4     1  -999  -999
+ E N CENTRAL        11   -1   -2      11    -1    -2  -999  -999
+ W N CENTRAL         6  -23   -8       6   -23    -8  -999  -999
+ SOUTH ATLANTIC      0   -1    0       0    -1     0  -999  -999
+ E S CENTRAL         0    0    0       0     0     0  -999  -999
+ W S CENTRAL         0    0    0       0     0     0  -999  -999
+ MOUNTAIN            0  -38  -17       0   -38   -17  -999  -999
+ PACIFIC            11  -51  -34      11   -51   -34  -999  -999
+ 
+ UNITED STATES       8   -2    1       8    -2     1  -999  -999
+            ELECTRIC HOME HEATING CUSTOMER WEIGHTED
+   REGION
+ NEW ENGLAND        17    9    8      17     9     8  -999  -999
+ MIDDLE ATLANTIC     4   -3    0       4    -3     0  -999  -999
+ E N CENTRAL         8    0   -3       8     0    -3  -999  -999
+ W N CENTRAL         3  -10   -7       3   -10    -7  -999  -999
+ SOUTH ATLANTIC      0    0    0       0     0     0  -999  -999
+ E S CENTRAL         0    0    0       0     0     0  -999  -999
+ W S CENTRAL         0    0    0       0     0     0  -999  -999
+ MOUNTAIN            0  -13   -3       0   -13    -3  -999  -999
+ PACIFIC             6  -31  -16       6   -31   -16  -999  -999
+ 
+ UNITED STATES       2   -6   -3       2    -6    -3  -999  -999
